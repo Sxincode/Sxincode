@@ -62,3 +62,5 @@
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
+
+![snake gif](https://github.com/Sxincode/Sxincode/blob/output/github-contribution-grid-snake.svg)
