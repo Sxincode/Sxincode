@@ -63,4 +63,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
 
-![snake gif](https://github.com/Sxincode/Sxincode/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake Eating Github Contribution 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake.svg">
+</picture>
